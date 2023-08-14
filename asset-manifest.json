@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/PTApp/static/css/main.8ab0e0aa.css",
-    "main.js": "/PTApp/static/js/main.89e606eb.js",
+    "main.js": "/PTApp/static/js/main.c2aee8c3.js",
     "static/js/787.6d01aed9.chunk.js": "/PTApp/static/js/787.6d01aed9.chunk.js",
     "index.html": "/PTApp/index.html",
     "main.8ab0e0aa.css.map": "/PTApp/static/css/main.8ab0e0aa.css.map",
-    "main.89e606eb.js.map": "/PTApp/static/js/main.89e606eb.js.map",
+    "main.c2aee8c3.js.map": "/PTApp/static/js/main.c2aee8c3.js.map",
     "787.6d01aed9.chunk.js.map": "/PTApp/static/js/787.6d01aed9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8ab0e0aa.css",
-    "static/js/main.89e606eb.js"
+    "static/js/main.c2aee8c3.js"
   ]
 }
